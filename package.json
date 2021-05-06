@@ -1,7 +1,7 @@
 {
 	"author": "learner",
 	"description": "Sample project",
-	"keywords": ["learning","sample","freeCodeCamp"],
+	"keywords": ["learning","sample","freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
